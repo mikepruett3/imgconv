@@ -1,7 +1,7 @@
 # Image Files
-*.jpeg
-*.jpg
-*.png
+#*.jpeg
+#*.jpg
+#*.png
 
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
